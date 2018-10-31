@@ -1,5 +1,6 @@
 <?php
     $string['pluginname'] = 'Course Completion';
+    $string['privacy:metadata'] = 'The Course completion report only shows data stored in other locations.';
     $string['coursecompletion'] = 'Course Completion';
     $string['report_header_admin'] = 'Course Completion Records for All Users';
     $string['report_header'] = 'Course Completion Record for ';
